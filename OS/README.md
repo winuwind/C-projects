@@ -17,5 +17,5 @@
 5. [Библиотечная реализация части функционала библиотеки `pthread.h`](https://github.com/winuwind/C-projects/tree/main/OS/sem2/lab1-6).
 6. [Библиотечная реализация части функционала библиотеки `uthread.h` (Пользовательские потоки)](https://github.com/winuwind/C-projects/tree/main/OS/sem2/lab1-7).
 7. [Программа на синхронизацию (с проверкой следующей задачи)](https://github.com/winuwind/C-projects/tree/main/OS/sem2/lab2-3).
-8. [Собственная реализация `spinlock` и `mutex`](](https://github.com/winuwind/C-projects/tree/main/OS/sem2/lab2-4)).
+8. [Собственная реализация `spinlock` и `mutex`](https://github.com/winuwind/C-projects/tree/main/OS/sem2/lab2-4)).
 9. [Многопоточный кэширующий HTTP-proxy](https://github.com/winuwind/C-projects/tree/main/OS/sem2/lab3-3).
